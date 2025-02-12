@@ -1,0 +1,27 @@
+th {
+  
+    padding: 6px 12px 6px 12px;
+    border: 1px solid #dfdfe2;
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    text-align: left;
+    font-variant: small-caps;
+    background-color: #dfdfe2;
+
+}
+
+td {
+    padding: 6px 12px 6px 12px;
+}
+
+tfoot {
+    font-size: 1.2rem;
+    color: black;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    font-variant: small-caps;
+    border: 1 solid #dfdfe2;
+    background-color: #dfdfe2;
+}
